@@ -1,1 +1,1 @@
-# django-ecomm
+### Django Ecommerce Project
